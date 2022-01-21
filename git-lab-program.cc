@@ -1,7 +1,7 @@
 /*
  *        File: git-lab-program.cc
- *      Author: <AJ Costanzo>
- *        Date: <January 21st, 2022>
+ *      Author: <Enter your name>
+ *        Date: <Enter today's date>
  * Description: Add Description
  */
 
@@ -13,6 +13,6 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
-    cout << "Hello Git!!" <<end1;
+    /cout << "Hello Git!!" << endl;/
     return 0;
 }// main
